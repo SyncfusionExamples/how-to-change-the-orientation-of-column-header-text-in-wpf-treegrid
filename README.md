@@ -1,4 +1,4 @@
-# How to change the orientation of column header text in WPF TreeGrid?
+# How to Change the Orientation of Column Header Text in WPF TreeGrid?
 
 This example illustrates how to change the orientation of column header text in [WPF TreeGrid](https://www.syncfusion.com/wpf-controls/treegrid) (SfTreeGrid).
 

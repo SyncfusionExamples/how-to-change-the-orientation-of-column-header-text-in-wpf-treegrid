@@ -110,4 +110,4 @@ Orientation of the TreeGrid column header text can be changed by editing the con
 </Style>
 ```
 
-![How to change the orientation of column header text in WPF TreeGrid](ChangeColumnHeaderOrientation.png)
+![Column header text orientation changed to vertical](ChangeColumnHeaderOrientation.png)
